@@ -11,6 +11,8 @@ namespace FightSim_v1
     {
         static void Main(string[] args)
         {
+            //Övning färdig
+
             //Skapar två fighters
             Fighter f1 = new Fighter();
             Fighter f2 = new Fighter();
